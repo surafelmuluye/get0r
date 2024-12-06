@@ -2,4 +2,4 @@
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning and building in JavaScript/Typescript (Frontend & Backend)
 - 💞️ I’m looking to collaborate on different kinds of projects
-- 📫 How to reach me - surafelmulye@proton.com 
+- 📫 How to reach me - surafelmuluye@proton.me 
